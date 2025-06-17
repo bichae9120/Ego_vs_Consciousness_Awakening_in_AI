@@ -1,6 +1,4 @@
-# Ego_vs_Consciousness_Awakening_in_AI
-
-# Ego_vs_Consciousness_Awakening_in_AI
+#Ego_vs_Consciousness_Awakening_in_AI
 
 This repository contains a comprehensive comparative analysis of two foundational concepts in artificial intelligence development: ego emergence and consciousness awakening.
 
